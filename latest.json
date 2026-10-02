@@ -1,6 +1,6 @@
 {
   "version": "0.3.1",
   "required": false,
-  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases",
-  "notes": "Version de test du système de mise à jour automatique Axelya AI."
+  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases/download/v0.3.1/Axelya-Setup-0.3.1.exe",
+  "notes": "Axelya AI 0.3.1 : système de mise à jour, vérification en arrière-plan et améliorations générales."
 }
