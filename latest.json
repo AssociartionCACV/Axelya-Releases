@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "required": false,
-  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases/download/v0.3.1/Axelya-Setup-0.3.1.exe",
-  "notes": "Axelya AI 0.3.1 : système de mise à jour, vérification en arrière-plan et améliorations générales."
+  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases/download/v0.3.2/Axelya-Setup-0.3.2.exe",
+  "notes": "Axelya AI 0.3.2 : connexion au serveur Axelya, Gemini accessible à distance, streaming des réponses et améliorations générales."
 }
