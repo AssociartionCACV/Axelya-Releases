@@ -1,6 +1,6 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.4",
   "required": false,
-  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases/download/v0.3.3/Axelya-Setup-0.3.3.exe",
-  "notes": "Axelya AI 0.3.3 : correction du démarrage sous Windows et du stockage des données utilisateur."
+  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases/download/v0.3.4/Axelya-Setup-0.3.4.exe",
+  "notes": "Axelya AI 0.3.4 : amélioration du délai d'attente et de la stabilité du moteur IA."
 }
