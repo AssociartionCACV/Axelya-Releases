@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
+  "version": "0.4.0",
   "required": false,
-  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases/download/v0.3.4/Axelya-Setup-0.3.4.exe",
-  "notes": "Axelya AI 0.3.4 : amélioration du délai d'attente et de la stabilité du moteur IA."
+  "download": "https://github.com/AssociartionCACV/Axelya-Releases/releases/download/v0.4.0/Axelya-Setup-0.4.0.exe",
+  "notes": "Axelya AI 0.4.0 : nouvelle interface graphique, amélioration des performances du moteur IA, réduction des délais de réponse et meilleure gestion des erreurs Gemini."
 }
